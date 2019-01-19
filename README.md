@@ -16,6 +16,6 @@ a little bit of JOIN TABLE for MySQL because it has to join medical claim amount
 
 Feel free to explore my codes and you have my consent to use my code. Cheers!
 
-The system has a login page :-
-Username : admin@seliagroup.com
+The system has a login page ->
+Username : admin@seliagroup.com / 
 Password : 1234
