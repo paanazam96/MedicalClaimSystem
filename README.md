@@ -15,3 +15,7 @@ a button and localhost sendmail.exe to send a reminder by email to the staffs th
 a little bit of JOIN TABLE for MySQL because it has to join medical claim amount by ID number which is the primary key.
 
 Feel free to explore my codes and you have my consent to use my code. Cheers!
+
+The system has a login page :-
+Username : admin@seliagroup.com
+Password : 1234
